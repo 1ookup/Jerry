@@ -1,0 +1,17 @@
+GEM
+  remote: https://ruby.taobao.org/
+  specs:
+    awesome_print (1.6.1)
+    net-ssh (3.0.1)
+    ruby-progressbar (1.7.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  net-ssh
+  ruby-progressbar
+
+BUNDLED WITH
+   1.10.3
